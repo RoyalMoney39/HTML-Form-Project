@@ -1,0 +1,19 @@
+form { 
+    margin: 0 auto; 
+    width:90%;
+    height:90%;
+    }
+
+button{
+    float: right;
+}
+.Fgroup{
+    width:fit-content
+    
+}
+.h1{
+    height: 25px;
+}
+.btn-primary{
+    margin-left: 5px;
+}
